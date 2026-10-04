@@ -1,0 +1,15 @@
+# Python 3.11 is recommended on macOS. CPU training works on Apple Silicon and Intel.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+statsmodels==0.14.4
+scikit-learn==1.5.2
+tensorflow==2.16.2
+keras==3.3.3
+shap==0.46.0
+streamlit==1.44.1
+altair==5.5.0
+fastapi==0.115.12
+uvicorn==0.34.2
+python-multipart==0.0.20
+joblib==1.4.2
